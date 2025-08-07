@@ -1,2 +1,2 @@
-# Large-Language-Model-for-Organic-Reaction-Prediction
+# Large-Language-Model
 AAAI-2026: Open-sourced components (partial data &amp; code)
